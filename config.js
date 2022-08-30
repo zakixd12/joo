@@ -22,7 +22,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 global.ownername = 'Icha '
 // Other
-global.owner = ['6283841800798','6289506219231','62895369100404']
+global.owner = ['6283841800798','6289506219231','6289506219231']
 global.premium = ['6283841800798']
 global.packname = 'azeliya'
 global.author = 'omen'
